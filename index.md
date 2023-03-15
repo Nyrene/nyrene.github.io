@@ -3,8 +3,9 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
+
+[Testing another link](./_posts/2023-04-12.markdown).
 
 There should be whitespace between paragraphs.
 

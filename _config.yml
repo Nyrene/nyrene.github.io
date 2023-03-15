@@ -16,11 +16,18 @@
 title: nyrene_github_io
 email: rachael.ea.little@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Nyrene's Github.io Blog
+  Rachael's Github.io Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: nyrene 
-theme: jekyll-theme-slate
+remote-theme: zendesk/jekyll-theme-zendesk-garden@v0.3.0
+
+# Sidebar info: 
+sidebar:
+  - gradschoolexp
+  - Reverse Engineering Exercises
+  - Paper notes
+  - Other projects
 
 #remote_theme: pages-themes/slate@v0.2.0
 #plugins:
@@ -31,6 +38,9 @@ markdown: kramdown
 #theme: slate
 plugins:
   - jekyll-feed
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
