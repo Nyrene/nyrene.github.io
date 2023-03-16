@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: nyrene_github_io
+title: Rachael Little's Homepage
 email: rachael.ea.little@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Rachael's Github.io Blog
@@ -23,11 +23,24 @@ github_username: nyrene
 remote-theme: zendesk/jekyll-theme-zendesk-garden@v0.3.0
 
 # Sidebar info: 
+#sidebar:
+#  - gradschoolexplist
+#  - Reverse Engineering Exercises
+#  - Paper notes
+#  - Other projects
+
+
 sidebar:
-  - gradschoolexp
-  - Reverse Engineering Exercises
-  - Paper notes
-  - Other projects
+  - label: Grad School with OCD/ADHD Blog
+    children:
+      - gradschoolexplist
+      - adhdocdresources
+  - label: Paper Notes
+    children:
+      - papernoteslist
+  - label: RE Exercises
+  - label: Side Projects
+      
 
 #remote_theme: pages-themes/slate@v0.2.0
 #plugins:
