@@ -31,16 +31,16 @@ The sheer number of options is overwhelming. I feel if I choose the wrong one th
 If I can manage to choose one, I immediately face a dozen choices, all of which seem equally daunting:
 
 * The introduction has a number of CS and stats terms terms that all seem important to understand (or suggest another entire field to explore). Do I look at the Wikipedia pages for them first, to better understand the premise of the paper? If I do this, then...
-    	- The Wikipedia page has even more background terms to support the topic I chose to brush up on. Do I look at these as well? Repeat to infinity...
-    	- How long do I spend reading each subtopic? What if I miss something important by cutting my reading too short? What if I forget what I was reading in the first place, or why I came to this particular page first?
+    * The Wikipedia page has even more background terms to support the topic I chose to brush up on. Do I look at these as well? Repeat to infinity...
+    * How long do I spend reading each subtopic? What if I miss something important by cutting my reading too short? What if I forget what I was reading in the first place, or why I came to this particular page first?
 
 If I manage to move on...
 * The methodology is always a minefield. Although I know I can’t be expected to fully understand all of it as a beginner, my OCD tells me I’ve wasted all of my time reading the paper so far if I don’t understand the methods and every single one of their details. So I reread, and reread, and reread again. Sometimes I enjoy this rereading – repetition is comforting, and, like learning an instrument, helps me gain familiarity with the concepts. But when my OCD is bad I feel I can’t stop doing it, even when it brings no benefit, and it is deeply stressful(_"Did I really understand that sentence correctly? Maybe I should read it 3 more times to be sure... But now it sounds different, so I'll read it again..."_). And then there’s the problem of:
-    	* How much time do I spend searching about all the concepts used in the method so I can fully understand it, like...
-        	- statistical methods
-        	- set theory
-        	- Calculus?
-        	- _Hell, should I find the authors' source code so I can REALLY understand it?_
+    * How much time do I spend searching about all the concepts used in the method so I can fully understand it, like...
+        * statistical methods
+        * set theory
+        * Calculus?
+        * _Hell, should I find the authors' source code so I can REALLY understand it?_
 
       
 And then there's the ever-nagging question: _What if I think I understand things, but I don’t really? (Should I read the paper from the beginning again?)_
