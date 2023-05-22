@@ -34,12 +34,14 @@ sidebar:
   - label: Grad School with OCD/ADHD Blog
     children:
       - gradschoolexplist
-      - adhdocdresources
-  - label: Paper Notes
-    children:
-      - papernoteslist
+  #- label: Paper Notes
+  #  children:
+  #    - papernoteslist
   - label: RE Exercises
   - label: Side Projects
+    children:
+      - MemSweeper
+      - FluidStories
       
 
 #remote_theme: pages-themes/slate@v0.2.0

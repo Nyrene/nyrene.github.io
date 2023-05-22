@@ -145,7 +145,7 @@
   },"24": {
     "doc": "Posts",
     "title": "Posts",
-    "content": ". | Reading a paper with OCD | Resources | . ",
+    "content": ". | Reading a Paper with OCD - First Post | . ",
     "url": "http://localhost:4000/gradschoolexp_list.html",
     "relUrl": "/gradschoolexp_list.html"
   },"25": {
@@ -181,7 +181,7 @@
   },"30": {
     "doc": "Homepage",
     "title": "Welcome!",
-    "content": "03/15/2023 This site is still under construction. ",
+    "content": "Currently, there’s not much here, other than my first post in my grad school blog. &lt;- Feel free to check it out under Grad School/Posts! . ",
     "url": "http://localhost:4000/#welcome",
     "relUrl": "/#welcome"
   },"31": {
