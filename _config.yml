@@ -18,7 +18,7 @@ email: rachael.ea.little@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Rachael's Github.io Site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "rachaellittle.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: nyrene 
 remote-theme: zendesk/jekyll-theme-zendesk-garden@v0.3.0
 
